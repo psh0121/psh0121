@@ -1,7 +1,7 @@
 <!-- Header -->
 ![header_banner](https://capsule-render.vercel.app/api?type=waving&color=2D3952)
 
-<div>
+<div style="margin:0 10px">
     <img src="./images/profile.png" width=25% align="right" style="margin:0 10px"/>
     <h3>Hi there 👋</h3>
     <p align="left">
