@@ -11,6 +11,12 @@
 
 <!-- Contents -->
 <div>
+<h3>⚡️ Tech Stack</h3>
+javascript, java, mysql, html, css
+</div>
+
+
+<div>
 <h3>😺 Dev Log</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psh0121&repo=kukbi_frontendProject_self)](https://github.com/psh0121/kukbi_frontendProject_self)
