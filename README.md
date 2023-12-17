@@ -5,11 +5,18 @@
     <img src="./images/profile.png" width=25% align="right" style="margin:0 10px"/>
     <h3>Hi there 👋</h3>
     <p align="left">
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
     </p>
 </div>
 
-[![Suhyeon Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=psh0121)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true)
+<!-- Contents -->
+<div align="left">
+<h3>😺 Github Info</h3>
+    
+![Suhyeon Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=psh0121&count_private=true&show_icons=true&title_color=2D3952&text_color=ffffff&icon_color=2D3952&bg_color=4B89DC,5994DD,679FDF,76AAE1,84B5E3,92C0E5,A1CBE7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psh0121&layout=compact&title_color=2D3952&text_color=ffffff&bg_color=4B89DC,5994DD,679FDF,76AAE1,84B5E3,92C0E5,A1CBE7)
+
+</div>
 
 <!--
 **psh0121/psh0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
