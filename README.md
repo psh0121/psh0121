@@ -12,7 +12,13 @@
 <!-- Contents -->
 <div>
 <h3>⚡️ Tech Stack</h3>
-javascript, java, mysql, html, css
+
+![JavaScript](https://img.shields.io/badge/JavaScript-_?style=for-the-badge&logo=javascript&logoColor=black&color=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-_?style=for-the-badge&logo=MySQL&logoColor=white&color=%234479A1) 
+![HTML](https://img.shields.io/badge/HTML-_?style=for-the-badge&logo=HTML5&logoColor=white&color=%23E34F26) 
+![CSS](https://img.shields.io/badge/CSS-_?style=for-the-badge&logo=CSS3&logoColor=white&color=%231572B6)
+
 </div>
 
 
