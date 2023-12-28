@@ -1,13 +1,18 @@
 <!-- Header -->
 ![header_banner](https://capsule-render.vercel.app/api?type=waving&color=2D3952)
 
-<div style="margin:0 10px">
-    <img src="./images/profile.png" width=25% align="right" style="margin:0 10px"/>
-    <h3>Hi there 👋</h3>
-    <p align="left">
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    </p>
-</div>
+<h2>Hi there, I'm Suhyeon Park 👋</h2>
+<p>
+    개발자가 되기 위해 노력하고 있습니다.<br>
+    꿈에 가까워지기 위해 국비지원 교육, 부트캠프, 일경험 프로그램에 참여하였습니다.<br>
+    현재에도 제 꿈을 향해 달려가고 있는 중입니다.
+</p>
+
+<p>
+    I'm trying to become a developer.<br>
+    In order to get closer to my dream, I participated in state-funded education, boot camp, and work experience programs.<br>
+    I'm still running towards my dream.
+</p>
 
 <!-- Contents -->
 <div>
@@ -40,18 +45,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psh0121&layout=compact&title_color=2D3952&text_color=ffffff&bg_color=4B89DC,5994DD,679FDF,76AAE1,84B5E3,92C0E5,A1CBE7)](https://github.com/psh0121)
 
 </div>
-
-<!--
-**psh0121/psh0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
