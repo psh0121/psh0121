@@ -2,6 +2,10 @@
 ![header_banner](https://capsule-render.vercel.app/api?type=waving&color=2D3952)
 
 <h2>Hi there, I'm Suhyeon Park 👋</h2>
+
+![GitHub](https://img.shields.io/badge/psh0121-_?style=for-the-badge&logo=Github&color=%23181717&link=https%3A%2F%2Fgithub.com%2Fpsh0121) 
+![Blog](https://img.shields.io/badge/Blog-_?style=for-the-badge&logo=Tistory&color=%23000000&link=https%3A%2F%2Fonelight-stay.tistory.com%2F) 
+
 <p>
     개발자가 되기 위해 노력하고 있습니다.<br>
     꿈에 가까워지기 위해 국비지원 교육, 부트캠프, 일경험 프로그램에 참여하였습니다.<br>
