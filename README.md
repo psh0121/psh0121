@@ -3,8 +3,8 @@
 
 <h2>Hi there, I'm Suhyeon Park 👋</h2>
 
-![GitHub](https://img.shields.io/badge/psh0121-_?style=for-the-badge&logo=Github&color=%23181717&link=https%3A%2F%2Fgithub.com%2Fpsh0121) 
-![Blog](https://img.shields.io/badge/Blog-_?style=for-the-badge&logo=Tistory&color=%23000000&link=https%3A%2F%2Fonelight-stay.tistory.com%2F) 
+<a href="https://github.com/psh0121" target ="_blank"><img src="https://img.shields.io/badge/psh0121-_?style=for-the-badge&logo=Github&color=%23181717"/></a> 
+<a href="https://onelight-stay.tistory.com/" target ="_blank"><img src="https://img.shields.io/badge/Blog-_?style=for-the-badge&logo=Tistory&color=%23000000"/></a>
 
 <p>
     개발자가 되기 위해 노력하고 있습니다.<br>
