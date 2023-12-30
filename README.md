@@ -48,4 +48,9 @@
 [![Suhyeon Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=psh0121&count_private=true&show_icons=true&title_color=2D3952&text_color=ffffff&icon_color=2D3952&bg_color=4B89DC,5994DD,679FDF,76AAE1,84B5E3,92C0E5,A1CBE7)](https://github.com/psh0121)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psh0121&layout=compact&title_color=2D3952&text_color=ffffff&bg_color=4B89DC,5994DD,679FDF,76AAE1,84B5E3,92C0E5,A1CBE7)](https://github.com/psh0121)
 
+<h3>🏅 BOJ Info</h3>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tngus2057)](https://solved.ac/tngus2057) 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tngus2057&theme=warm)
 </div>
